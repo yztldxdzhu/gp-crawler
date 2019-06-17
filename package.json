@@ -1,0 +1,21 @@
+{
+  "name": "gp-crawler-demo",
+  "version": "1.0.0",
+  "description": "爬虫示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "爬虫"
+  ],
+  "author": "gyh",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "cheerio": "^0.22.0",
+    "jquery": "^3.2.1",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2"
+  }
+}
